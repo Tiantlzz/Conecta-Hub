@@ -28,6 +28,6 @@ The objective is to apply the POUR methodology (Perceivable, Operable, Understan
 - ✅ The main focus is to demonstrate the structure, accessibility, and design of the web mockup.
 
 ## Technologies used
--HTML5
--CSS3
--(Optional) Basic JavaScript
+- HTML5
+- CSS3
+- (Optional) Basic JavaScript
